@@ -13,8 +13,8 @@
     "nav": "Press 2 to go to Asia, press 3 to go to North America, press 4 to go to South America. Press 5 to go to Euroe, press 6 to go to Africa, press 7 to go to Australia, press 8 to go to Middle East.",
     "win": 0,
     "lose": 0,
-    "Station": 0,
-    "Fuel": 0
+    "station": 0,
+    "fuel": 0
   },
   {
     "id": 2,
@@ -30,8 +30,8 @@
     "nav": "Press 1 to go back to UN HQ, press 9 to go to India, press 10 to go to China, press 11 to go to Russia.",
     "win": 0,
     "lose": 0,
-    "Station": 0,
-    "Fuel": 0
+    "station": 0,
+    "fuel": 0
   },
   {
     "id": 3,
@@ -47,8 +47,8 @@
     "nav": "Press 1 to go back to UN HQ, press 12 to go to the USA, press 13 to go to Canada.",
     "win": 0,
     "lose": 0,
-    "Station": 0,
-    "Fuel": 0
+    "station": 0,
+    "fuel": 0
   },
   {
     "id": 4,
@@ -64,8 +64,8 @@
     "nav": "Press 1 to go back to UN HQ, press 14 to go to Argentina, press 15 to go to Mexico, press 16 to go to Uruguay.",
     "win": 0,
     "lose": 0,
-    "Station": 0,
-    "Fuel": 0
+    "station": 0,
+    "fuel": 0
   },
   {
     "id": 5,
@@ -81,8 +81,8 @@
     "nav": "Press 1 to go back to UN HQ, press 17 to go to France, press 18 to go to Italy, press 19 to go to Greece.",
     "win": 0,
     "lose": 0,
-    "Station": 0,
-    "Fuel": 0
+    "station": 0,
+    "fuel": 0
   },
   {
     "id": 6,
@@ -98,8 +98,8 @@
     "nav": "Press 1 to go back to UN HQ, press 20 to go to Morocco, press 21 to go to South Africa, press 22 to go to Eqypt.",
     "win": 0,
     "lose": 0,
-    "Station": 0,
-    "Fuel": 0
+    "station": 0,
+    "fuel": 0
   },
   {
     "id": 7,
@@ -115,8 +115,8 @@
     "nav": "Press 1 to go back to UN HQ, press 23 to go to New Zealand.",
     "win": 0,
     "lose": 0,
-    "Station": 0,
-    "Fuel": 0
+    "station": 0,
+    "fuel": 0
   },
   {
     "id": 8,
@@ -132,8 +132,8 @@
     "nav": "Press 1 to go back to UN HQ, press 24 to go to Qatar, press 25 to go to Saudi Arabia.",
     "win": 0,
     "lose": 0,
-    "Station": 0,
-    "Fuel": 0
+    "station": 0,
+    "fuel": 0
   },
   {
     "id": 9,
@@ -149,8 +149,8 @@
     "nav": "Press 1 to go back to UN HQ, press 2 to go to Asia HQ.",
     "win": 0,
     "lose": 0,
-    "Station": "Fuel",
-    "Fuel": 0
+    "station": 1,
+    "fuel": 0
   },
   {
     "id": 10,
@@ -166,8 +166,8 @@
     "nav": "Press 1 to go back to UN HQ, press 2 to go to Asia HQ.",
     "win": 0,
     "lose": 0,
-    "Station": "Fuel",
-    "Fuel": 0
+    "station": 1,
+    "fuel": 0
   },
   {
     "id": 11,
@@ -183,8 +183,8 @@
     "nav": "Press 1 to go back to UN HQ, press 2 to go to Asia HQ.",
     "win": 0,
     "lose": 0,
-    "Station": "Fuel",
-    "Fuel": 0
+    "station": 1,
+    "fuel": 0
   },
   {
     "id": 12,
@@ -200,8 +200,8 @@
     "nav": "Press 1 to go back to UN HQ, press 2 to go to North America HQ.",
     "win": 0,
     "lose": 0,
-    "Station": "Fuel",
-    "Fuel": 0
+    "station": 1,
+    "fuel": 0
   },
   {
     "id": 13,
@@ -217,8 +217,8 @@
     "nav": "Press 1 to go back to UN HQ, press 2 to go to North America HQ.",
     "win": 0,
     "lose": 0,
-    "Station": "Fuel",
-    "Fuel": 0
+    "station": 1,
+    "fuel": 0
   },
   {
     "id": 14,
@@ -234,8 +234,8 @@
     "nav": "Press 1 to go back to UN HQ, press 2 to go to South America HQ.",
     "win": 0,
     "lose": 0,
-    "Station": 0,
-    "Fuel": "Low"
+    "station": 0,
+    "fuel": 1
   },
   {
     "id": 15,
@@ -251,8 +251,8 @@
     "nav": "Press 1 to go back to UN HQ, press 2 to go to South America HQ.",
     "win": 0,
     "lose": 0,
-    "Station": 0,
-    "Fuel": "Low"
+    "station": 0,
+    "fuel": 1
   },
   {
     "id": 16,
@@ -268,8 +268,8 @@
     "nav": "Press 1 to go back to UN HQ, press 2 to go to South America HQ.",
     "win": 0,
     "lose": 0,
-    "Station": 0,
-    "Fuel": "Low"
+    "station": 0,
+    "fuel": 1
   },
   {
     "id": 17,
@@ -285,8 +285,8 @@
     "nav": "You lose.",
     "win": 0,
     "lose": 1,
-    "Station": 0,
-    "Fuel": "Low"
+    "station": 0,
+    "fuel": 1
   },
   {
     "id": 18,
@@ -302,8 +302,8 @@
     "nav": "Press 1 to go back to UN HQ, press 2 to go to Europe HQ.",
     "win": 0,
     "lose": 0,
-    "Station": 0,
-    "Fuel": "Low"
+    "station": 0,
+    "fuel": 1
   },
   {
     "id": 19,
@@ -319,8 +319,8 @@
     "nav": "Press 1 to go back to UN HQ, press 2 to go to Europe HQ.",
     "win": 0,
     "lose": 0,
-    "Station": 0,
-    "Fuel": "Low"
+    "station": 0,
+    "fuel": 1
   },
   {
     "id": 20,
@@ -336,8 +336,8 @@
     "nav": "You Win!",
     "win": 1,
     "lose": 0,
-    "Station": 0,
-    "Fuel": "Low"
+    "station": 0,
+    "fuel": 1
   },
   {
     "id": 21,
@@ -353,8 +353,8 @@
     "nav": "Press 1 to go back to UN HQ, press 2 to go to Africa HQ.",
     "win": 0,
     "lose": 0,
-    "Station": 0,
-    "Fuel": "Low"
+    "station": 0,
+    "fuel": 1
   },
   {
     "id": 22,
@@ -370,8 +370,8 @@
     "nav": "Press 1 to go back to UN HQ, press 2 to go to Africa HQ.",
     "win": 0,
     "lose": 0,
-    "Station": "Fuel",
-    "Fuel": 0
+    "station": 1,
+    "fuel": 0
   },
   {
     "id": 23,
@@ -387,8 +387,8 @@
     "nav": "Press 1 to go back to UN HQ, press 2 to go to Australia HQ.",
     "win": 0,
     "lose": 0,
-    "Station": 0,
-    "Fuel": "Low"
+    "station": 0,
+    "fuel": 1
   },
   {
     "id": 24,
@@ -404,8 +404,8 @@
     "nav": "Press 1 to go back to UN HQ, press 2 to go to Middle East HQ.",
     "win": 0,
     "lose": 0,
-    "Station": "Fuel",
-    "Fuel": 0
+    "station": 1,
+    "fuel": 0
   },
   {
     "id": 25,
@@ -421,7 +421,7 @@
     "nav": "Press 1 to go back to UN HQ, press 2 to go to Middle East HQ.",
     "win": 0,
     "lose": 0,
-    "Station": "Fuel",
-    "Fuel": 0
+    "station": 1,
+    "fuel": 0
   }
 ]
